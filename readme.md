@@ -1,9 +1,3 @@
-# Directory
-
-\- [English](readme_en.md)
-
-\- [中文](readme.md)
-
 # Changelog
 
 - 20240513 Newly created repositories support ARCH 64 devices by default
