@@ -1,3 +1,5 @@
+# Main repo: https://github.com/LYU4662/PPPwn_orangepi
+
 # Changelog
 
 - 20240513 Newly created repositories support ARCH 64 devices by default
